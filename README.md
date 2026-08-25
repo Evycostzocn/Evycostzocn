@@ -31,8 +31,9 @@ Software Engineering
 
 ### 🎯 Focus
 
-Backend  
-Development
+
+Software Development
+Cybersecurity
 
 </td>
 
