@@ -23,7 +23,6 @@ Currently exploring <strong>Python, Java, Web Development, Algorithms and Data S
 ### 📖 Studying
 
 Software Engineering  
-@ PUC
 
 </td>
 
@@ -57,5 +56,23 @@ through code
 
 </tr>
 </table>
+
+</div>
+
+<div align="center">
+
+<h2>🛠️ Tech Stack</h2>
+
+<h3>Languages</h3>
+
+<img src="https://skillicons.dev/icons?i=python,java,javascript" />
+
+<h3>Web</h3>
+
+<img src="https://skillicons.dev/icons?i=html,css" />
+
+<h3>Tools & Environment</h3>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,pycharm,docker" />
 
 </div>
