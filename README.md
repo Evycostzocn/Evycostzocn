@@ -6,6 +6,8 @@
 
 <div align="center">
 
+<div align="center">
+
 <h2>👩🏻‍💻 About Me</h2>
 
 <p>
@@ -20,36 +22,35 @@ Currently exploring <strong>Python, Java, Web Development, Algorithms and Data S
 
 <td align="center" width="25%">
 
-### 📖 Studying
+<h3>📖 Studying</h3>
 
-Software Engineering  
+Software Engineering
 
 </td>
 
 <td align="center" width="25%">
 
-### 🎯 Focus
+<h3>🎯 Focus</h3>
 
-
-Software Development
+Software Development<br>
 Cybersecurity
 
 </td>
 
 <td align="center" width="25%">
 
-### 🌱 Currently
+<h3>🌱 Currently</h3>
 
-Java  
+Java<br>
 OOP & Modular Programming
 
 </td>
 
 <td align="center" width="25%">
 
-### 🚀 Goal
+<h3>🚀 Goal</h3>
 
-Create impact  
+Create impact<br>
 through code
 
 </td>
@@ -58,6 +59,7 @@ through code
 </table>
 
 </div>
+
 
 <div align="center">
 
