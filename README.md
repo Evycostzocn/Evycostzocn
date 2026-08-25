@@ -82,6 +82,11 @@ through code
 <h2>⏱️ Coding Activity</h2>
 
 <!--START_SECTION:waka-->
+
+```txt
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 </div>
