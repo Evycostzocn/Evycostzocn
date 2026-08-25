@@ -76,3 +76,12 @@ through code
 <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,pycharm,docker" />
 
 </div>
+
+<div align="center">
+
+<h2>⏱️ Coding Activity</h2>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+</div>
