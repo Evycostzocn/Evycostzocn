@@ -174,7 +174,7 @@ Academic project developed as part of the Software Engineering program at PUC Mi
 
 <p>
 
-<em>My coding activity over the last 7 days</em>
+<em>My coding activity</em>
 
 </p>
 
