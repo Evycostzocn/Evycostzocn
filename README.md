@@ -6,18 +6,21 @@
 
 <div align="center">
 
-<div align="center">
-
 <h2>👩🏻‍💻 About Me</h2>
 
 <p>
+
 I'm a Software Engineering student at <strong>PUC</strong>, passionate about
 coding, problem solving and turning ideas into practical solutions.
+
 <br>
+
 Currently exploring <strong>Python, Java, Web Development, Algorithms and Data Structures.</strong>
+
 </p>
 
 <table>
+
 <tr>
 
 <td align="center" width="25%">
@@ -56,10 +59,10 @@ through code
 </td>
 
 </tr>
+
 </table>
 
 </div>
-
 
 <div align="center">
 
@@ -96,115 +99,188 @@ through code
 <table width="100%">
 
 <tr>
+
 <td width="70" align="center">🎮</td>
+
 <td>
 
-**InfinityHUB**
+<strong>InfinityHUB</strong>
+
+<br><br>
+
 Game recommendation and catalog project focused on organizing games by genre and category.
-`HTML` `JavaScript` `JSON Server`
-[View Repository →](https://github.com/Evycostzocn/InfinityHUB)
+
+<br><br>
+
+<code>HTML</code> <code>JavaScript</code> <code>JSON Server</code>
+
+<br><br>
+
+<a href="https://github.com/Evycostzocn/InfinityHUB">View Repository →</a>
 
 </td>
+
 <td align="right" valign="top">
 
-![stars](https://img.shields.io/github/stars/Evycostzocn/InfinityHUB?style=social)
+<a href="https://github.com/Evycostzocn/InfinityHUB">
+<img src="https://img.shields.io/github/stars/Evycostzocn/InfinityHUB?style=social" />
+</a>
 
 </td>
+
 </tr>
 
-<tr><td colspan="3"><hr></td></tr>
+<tr>
+<td colspan="3"><hr></td>
+</tr>
 
 <tr>
+
 <td width="70" align="center">📋</td>
+
 <td>
 
-**myroutine**
+<strong>myroutine</strong>
+
+<br><br>
+
 A simple routine management project designed to organize daily activities and tasks.
-`HTML` `CSS` `JavaScript`
-[View Repository →](https://github.com/Evycostzocn/myroutine)
+
+<br><br>
+
+<code>HTML</code> <code>CSS</code> <code>JavaScript</code>
+
+<br><br>
+
+<a href="https://github.com/Evycostzocn/myroutine">View Repository →</a>
 
 </td>
+
 <td align="right" valign="top">
 
-![stars](https://img.shields.io/github/stars/Evycostzocn/myroutine?style=social)
+<a href="https://github.com/Evycostzocn/myroutine">
+<img src="https://img.shields.io/github/stars/Evycostzocn/myroutine?style=social" />
+</a>
 
 </td>
+
 </tr>
 
-<tr><td colspan="3"><hr></td></tr>
+<tr>
+<td colspan="3"><hr></td>
+</tr>
 
 <tr>
+
 <td width="70" align="center">🐍</td>
+
 <td>
 
-**Algorithms — Python**
+<strong>Algorithms — Python</strong>
+
+<br><br>
+
 Collection of exercises and solutions developed during the Introduction to Algorithms course.
-`Python` `Algorithms` `Problem Solving`
-[View Repository →](https://github.com/Evycostzocn/Introdu-o-Algoritmos---PYTHON)
+
+<br><br>
+
+<code>Python</code> <code>Algorithms</code> <code>Problem Solving</code>
+
+<br><br>
+
+<a href="https://github.com/Evycostzocn/Introdu-o-Algoritmos---PYTHON">View Repository →</a>
 
 </td>
+
 <td align="right" valign="top">
 
-![stars](https://img.shields.io/github/stars/Evycostzocn/Introdu-o-Algoritmos---PYTHON?style=social)
+<a href="https://github.com/Evycostzocn/Introdu-o-Algoritmos---PYTHON">
+<img src="https://img.shields.io/github/stars/Evycostzocn/Introdu-o-Algoritmos---PYTHON?style=social" />
+</a>
 
 </td>
+
 </tr>
 
 <tr>
+<td colspan="3"><hr></td>
+</tr>
+
+<tr>
+
 <td width="70" align="center">🤖</td>
+
 <td>
 
-**DesligaAI**
+<strong>DesligaAI</strong>
+
+<br><br>
+
 Academic project developed as part of the Software Engineering program at PUC Minas.
 
-`Academic Project` `Software Engineering`
+<br><br>
 
-[View Repository →](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2025-2-ti1-2401100-desligaai)
+<code>Academic Project</code> <code>Software Engineering</code>
+
+<br><br>
+
+<a href="https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2025-2-ti1-2401100-desligaai">View Repository →</a>
 
 </td>
+
 <td align="right" valign="top">
 
-[![stars](https://img.shields.io/github/stars/ICEI-PUC-Minas-PMGES-TI/pmg-es-2025-2-ti1-2401100-desligaai?style=social)](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2025-2-ti1-2401100-desligaai)
+<a href="https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2025-2-ti1-2401100-desligaai">
+<img src="https://img.shields.io/github/stars/ICEI-PUC-Minas-PMGES-TI/pmg-es-2025-2-ti1-2401100-desligaai?style=social" />
+</a>
 
 </td>
-</tr>
 
+</tr>
 
 </table>
 
 <div align="center">
+
 <br>
+
 <em>✨ Always learning, always building.</em>
+
 </div>
-
-
-
 
 <div align="center">
 
 <h2>⏱️ Coding Activity</h2>
 
 <p>
-  <em>My coding activity over the last 7 days</em>
+
+<em>My coding activity over the last 7 days</em>
+
 </p>
 
 <br>
 
 <table>
+
 <tr>
+
 <td align="center">
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
 </td>
+
 </tr>
+
 </table>
 
 <br>
 
 <p>
-  <img src="https://img.shields.io/badge/Powered%20by-WakaTime-ff6b81?style=for-the-badge&logo=wakatime&logoColor=white">
+
+<img src="https://img.shields.io/badge/Powered%20by-WakaTime-ff6b81?style=for-the-badge&logo=wakatime&logoColor=white">
+
 </p>
 
 </div>
