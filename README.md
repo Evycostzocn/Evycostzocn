@@ -183,9 +183,20 @@ Academic project developed as part of the Software Engineering program at PUC Mi
 <td align="center">
 
 <!--START_SECTION:waka-->
+
 ```txt
-No data available yet — this section updates automatically after the next Action run.
+From: 31 July 2026 - To: 27 August 2026
+
+Total Time: 2 hrs 49 mins
+
+Java              1 hr 18 mins          ███████████▓░░░░░░░░░░░░░   46.15 %
+Markdown          1 hr 13 mins          ██████████▓░░░░░░░░░░░░░░   43.05 %
+XML               16 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.47 %
+Python            1 min                 ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 %
+YAML              0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
+HTML              0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
 ```
+
 <!--END_SECTION:waka-->
 
 </td>
