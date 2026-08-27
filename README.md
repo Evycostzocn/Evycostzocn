@@ -184,12 +184,27 @@ Academic project developed as part of the Software Engineering program at PUC Mi
 
 <h2>⏱️ Coding Activity</h2>
 
+<p>
+  <em>My coding activity over the last 7 days</em>
+</p>
+
+<br>
+
+<table>
+<tr>
+<td align="center">
+
 <!--START_SECTION:waka-->
-
-```txt
-No activity tracked
-```
-
 <!--END_SECTION:waka-->
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<p>
+  <img src="https://img.shields.io/badge/Powered%20by-WakaTime-ff6b81?style=for-the-badge&logo=wakatime&logoColor=white">
+</p>
 
 </div>
