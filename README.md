@@ -97,155 +97,75 @@ through code
 </div>
 
 <table width="100%">
-
 <tr>
-
-<td width="70" align="center">🎮</td>
-
-<td>
-
-<strong>InfinityHUB</strong>
-
-<br><br>
-
-Game recommendation and catalog project focused on organizing games by genre and category.
-
-<br><br>
-
-<code>HTML</code> <code>JavaScript</code> <code>JSON Server</code>
-
-<br><br>
-
+<td width="60" align="center" valign="top">🎮</td>
+<td valign="top">
+<strong>InfinityHUB</strong><br/>
+Game recommendation and catalog project focused on organizing games by genre and category.<br/><br/>
+<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/JSON_Server-000000?style=flat-square&logo=json&logoColor=white"/><br/><br/>
 <a href="https://github.com/Evycostzocn/InfinityHUB">View Repository →</a>
-
 </td>
-
 <td align="right" valign="top">
-
-<a href="https://github.com/Evycostzocn/InfinityHUB">
-<img src="https://img.shields.io/github/stars/Evycostzocn/InfinityHUB?style=social" />
-</a>
-
+<a href="https://github.com/Evycostzocn/InfinityHUB"><img src="https://img.shields.io/github/stars/Evycostzocn/InfinityHUB?style=social"/></a>
 </td>
-
 </tr>
 
-<tr>
-<td colspan="3"><hr></td>
-</tr>
+<tr><td colspan="3"><hr/></td></tr>
 
 <tr>
-
-<td width="70" align="center">📋</td>
-
-<td>
-
-<strong>myroutine</strong>
-
-<br><br>
-
-A simple routine management project designed to organize daily activities and tasks.
-
-<br><br>
-
-<code>HTML</code> <code>CSS</code> <code>JavaScript</code>
-
-<br><br>
-
+<td width="60" align="center" valign="top">📋</td>
+<td valign="top">
+<strong>myroutine</strong><br/>
+A simple routine management project designed to organize daily activities and tasks.<br/><br/>
+<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/><br/><br/>
 <a href="https://github.com/Evycostzocn/myroutine">View Repository →</a>
-
 </td>
-
 <td align="right" valign="top">
-
-<a href="https://github.com/Evycostzocn/myroutine">
-<img src="https://img.shields.io/github/stars/Evycostzocn/myroutine?style=social" />
-</a>
-
+<a href="https://github.com/Evycostzocn/myroutine"><img src="https://img.shields.io/github/stars/Evycostzocn/myroutine?style=social"/></a>
 </td>
-
 </tr>
 
-<tr>
-<td colspan="3"><hr></td>
-</tr>
+<tr><td colspan="3"><hr/></td></tr>
 
 <tr>
-
-<td width="70" align="center">🐍</td>
-
-<td>
-
-<strong>Algorithms — Python</strong>
-
-<br><br>
-
-Collection of exercises and solutions developed during the Introduction to Algorithms course.
-
-<br><br>
-
-<code>Python</code> <code>Algorithms</code> <code>Problem Solving</code>
-
-<br><br>
-
+<td width="60" align="center" valign="top">🐍</td>
+<td valign="top">
+<strong>Algorithms — Python</strong><br/>
+Collection of exercises and solutions developed during the Introduction to Algorithms course.<br/><br/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Algorithms-6c757d?style=flat-square"/>
+<img src="https://img.shields.io/badge/Problem_Solving-6c757d?style=flat-square"/><br/><br/>
 <a href="https://github.com/Evycostzocn/Introdu-o-Algoritmos---PYTHON">View Repository →</a>
-
 </td>
-
 <td align="right" valign="top">
-
-<a href="https://github.com/Evycostzocn/Introdu-o-Algoritmos---PYTHON">
-<img src="https://img.shields.io/github/stars/Evycostzocn/Introdu-o-Algoritmos---PYTHON?style=social" />
-</a>
-
+<a href="https://github.com/Evycostzocn/Introdu-o-Algoritmos---PYTHON"><img src="https://img.shields.io/github/stars/Evycostzocn/Introdu-o-Algoritmos---PYTHON?style=social"/></a>
 </td>
-
 </tr>
 
-<tr>
-<td colspan="3"><hr></td>
-</tr>
+<tr><td colspan="3"><hr/></td></tr>
 
 <tr>
-
-<td width="70" align="center">🤖</td>
-
-<td>
-
-<strong>DesligaAI</strong>
-
-<br><br>
-
-Academic project developed as part of the Software Engineering program at PUC Minas.
-
-<br><br>
-
-<code>Academic Project</code> <code>Software Engineering</code>
-
-<br><br>
-
+<td width="60" align="center" valign="top">🤖</td>
+<td valign="top">
+<strong>DesligaAI</strong><br/>
+Academic project developed as part of the Software Engineering program at PUC Minas.<br/><br/>
+<img src="https://img.shields.io/badge/Academic_Project-6c757d?style=flat-square"/>
+<img src="https://img.shields.io/badge/Software_Engineering-6c757d?style=flat-square"/><br/><br/>
 <a href="https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2025-2-ti1-2401100-desligaai">View Repository →</a>
-
 </td>
-
 <td align="right" valign="top">
-
-<a href="https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2025-2-ti1-2401100-desligaai">
-<img src="https://img.shields.io/github/stars/ICEI-PUC-Minas-PMGES-TI/pmg-es-2025-2-ti1-2401100-desligaai?style=social" />
-</a>
-
+<a href="https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2025-2-ti1-2401100-desligaai"><img src="https://img.shields.io/github/stars/ICEI-PUC-Minas-PMGES-TI/pmg-es-2025-2-ti1-2401100-desligaai?style=social"/></a>
 </td>
-
 </tr>
-
 </table>
 
 <div align="center">
-
-<br>
-
+<br/>
 <em>✨ Always learning, always building.</em>
-
 </div>
 
 <div align="center">
