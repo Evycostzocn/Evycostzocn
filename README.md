@@ -83,11 +83,10 @@ through code
 
 <h2>📊 GitHub Stats</h2>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Evycostzocn&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&title_color=ff6b81&icon_color=ff6b81&text_color=ffffff&bg_color=0d0d1a"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Evycostzocn&layout=compact&langs_count=8&theme=dark&hide_border=true&title_color=ff6b81&text_color=ffffff&bg_color=0d0d1a"/>
+<img height="180em" src="https://evy-github-readme-stats.vercel.app/api/top-langs/?username=Evycostzocn&layout=compact&langs_count=8&theme=dark&hide_border=true&title_color=ff6b81&text_color=ffffff&bg_color=0d0d1a"/>
 
 </div>
+
 
 
 <div align="center">
