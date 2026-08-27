@@ -102,72 +102,57 @@ through code
 
 <td align="center" width="33%">
 
-<img src="https://img.icons8.com/fluency/96/controller.png" width="70">
+<h3>InfinityHUB</h3>
 
-<h3>🎮 InfinityHUB</h3>
+<img src="https://skillicons.dev/icons?i=html,js,json" />
+
+<br><br>
 
 <p>
-A game catalog and recommendation project focused on
+Game catalog and recommendation project focused on
 organizing games by genres and categories.
 </p>
 
-<p>
-<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-<br>
-<img src="https://img.shields.io/badge/JSON_Server-000000?style=for-the-badge&logo=json&logoColor=white">
-</p>
-
 <a href="https://github.com/Evycostzocn/InfinityHUB">
-<img src="https://img.shields.io/badge/VIEW_CODE-ff6b81?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/View%20Repository-8b1e2b?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 </td>
 
 <td align="center" width="33%">
 
-<img src="https://img.icons8.com/fluency/96/calendar.png" width="70">
+<h3>myroutine</h3>
 
-<h3>📋 myroutine</h3>
+<img src="https://skillicons.dev/icons?i=html,css,js" />
+
+<br><br>
 
 <p>
-A routine management project created to organize
+Routine management project created to organize
 daily activities and tasks in a simple way.
 </p>
 
-<p>
-<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-<br>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-</p>
-
 <a href="https://github.com/Evycostzocn/myroutine">
-<img src="https://img.shields.io/badge/VIEW_CODE-ff6b81?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/View%20Repository-8b1e2b?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 </td>
 
 <td align="center" width="33%">
 
-<img src="https://img.icons8.com/fluency/96/python.png" width="70">
+<h3>Introdução à Algoritmos</h3>
 
-<h3>🐍 Algorithms — Python</h3>
+<img src="https://skillicons.dev/icons?i=python" />
+
+<br><br>
 
 <p>
-Exercises and solutions developed throughout the
+Exercises and solutions developed during the
 Introduction to Algorithms course using Python.
 </p>
 
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/Algorithms-8B5CF6?style=for-the-badge&logo=thealgorithms&logoColor=white">
-<br>
-<img src="https://img.shields.io/badge/Problem_Solving-FF4F81?style=for-the-badge&logo=target&logoColor=white">
-</p>
-
 <a href="https://github.com/Evycostzocn/Introdu-o-Algoritmos---PYTHON">
-<img src="https://img.shields.io/badge/VIEW_CODE-ff6b81?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/View%20Repository-8b1e2b?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 </td>
@@ -177,19 +162,9 @@ Introduction to Algorithms course using Python.
 
 <br>
 
-<table>
-<tr>
-<td align="center">
-
+<p>
 ✨ <strong>Always learning, always building.</strong>
-
-<br>
-
-<em>Every project is another step in the journey.</em>
-
-</td>
-</tr>
-</table>
+</p>
 
 </div>
 
