@@ -150,6 +150,26 @@ Collection of exercises and solutions developed during the Introduction to Algor
 </td>
 </tr>
 
+<tr>
+<td width="70" align="center">🤖</td>
+<td>
+
+**DesligaAI**
+Academic project developed as part of the Software Engineering program at PUC Minas.
+
+`Academic Project` `Software Engineering`
+
+[View Repository →](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2025-2-ti1-2401100-desligaai)
+
+</td>
+<td align="right" valign="top">
+
+[![stars](https://img.shields.io/github/stars/ICEI-PUC-Minas-PMGES-TI/pmg-es-2025-2-ti1-2401100-desligaai?style=social)](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2025-2-ti1-2401100-desligaai)
+
+</td>
+</tr>
+
+
 </table>
 
 <div align="center">
