@@ -92,67 +92,65 @@ through code
 <h2>🚀 Featured Projects</h2>
 
 <p>
-<em>A few projects that represent what I'm learning, building and exploring.</em>
+Some of the projects I've built and been working on.
 </p>
-
-<br>
 
 <table>
 <tr>
 
 <td align="center" width="33%">
 
-<h3>InfinityHUB</h3>
-
-<img src="https://skillicons.dev/icons?i=html,js,json" />
-
-<br><br>
+<h3>🎮 InfinityHUB</h3>
 
 <p>
-Game catalog and recommendation project focused on
-organizing games by genres and categories.
+Game recommendation and catalog project focused on
+organizing games by genre and category.
+</p>
+
+<p>
+<strong>HTML · JavaScript · JSON Server</strong>
 </p>
 
 <a href="https://github.com/Evycostzocn/InfinityHUB">
-<img src="https://img.shields.io/badge/View%20Repository-8b1e2b?style=for-the-badge&logo=github&logoColor=white">
+View Repository →
 </a>
 
 </td>
 
 <td align="center" width="33%">
 
-<h3>myroutine</h3>
-
-<img src="https://skillicons.dev/icons?i=html,css,js" />
-
-<br><br>
+<h3>📋 myroutine</h3>
 
 <p>
-Routine management project created to organize
-daily activities and tasks in a simple way.
+A simple routine management project designed to
+organize daily activities and tasks.
+</p>
+
+<p>
+<strong>HTML · CSS · JavaScript</strong>
 </p>
 
 <a href="https://github.com/Evycostzocn/myroutine">
-<img src="https://img.shields.io/badge/View%20Repository-8b1e2b?style=for-the-badge&logo=github&logoColor=white">
+View Repository →
 </a>
 
 </td>
 
 <td align="center" width="33%">
 
-<h3>Introdução à Algoritmos</h3>
-
-<img src="https://skillicons.dev/icons?i=python" />
-
-<br><br>
+<h3>🐍 Algorithms — Python</h3>
 
 <p>
-Exercises and solutions developed during the
-Introduction to Algorithms course using Python.
+Collection of exercises and solutions developed
+during the Introduction to Algorithms course.
+</p>
+
+<p>
+<strong>Python · Algorithms · Problem Solving</strong>
 </p>
 
 <a href="https://github.com/Evycostzocn/Introdu-o-Algoritmos---PYTHON">
-<img src="https://img.shields.io/badge/View%20Repository-8b1e2b?style=for-the-badge&logo=github&logoColor=white">
+View Repository →
 </a>
 
 </td>
@@ -163,7 +161,7 @@ Introduction to Algorithms course using Python.
 <br>
 
 <p>
-✨ <strong>Always learning, always building.</strong>
+✨ <em>Always learning, always building.</em>
 </p>
 
 </div>
