@@ -173,7 +173,7 @@ Academic project developed as part of the Software Engineering program at PUC Mi
 <h2>⏱️ Coding Activity</h2>
 
 <p>
-<em>My all-time coding activity</em>
+<em>My last year coding activity</em>
 </p>
 
 <br>
