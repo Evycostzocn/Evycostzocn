@@ -87,6 +87,85 @@ through code
 
 </div>
 
+<div align="center">
+
+<h2>🚀 Featured Projects</h2>
+
+<p>
+Some of the projects I've built and been working on.
+</p>
+
+<table>
+<tr>
+
+<td align="center" width="33%">
+
+<h3>🎮 InfinityHUB</h3>
+
+<p>
+Game recommendation and catalog project focused on
+organizing games by genre and category.
+</p>
+
+<p>
+<strong>HTML · JavaScript · JSON Server</strong>
+</p>
+
+<a href="https://github.com/Evycostzocn/InfinityHUB">
+View Repository →
+</a>
+
+</td>
+
+<td align="center" width="33%">
+
+<h3>📋 myroutine</h3>
+
+<p>
+A simple routine management project designed to
+organize daily activities and tasks.
+</p>
+
+<p>
+<strong>HTML · CSS · JavaScript</strong>
+</p>
+
+<a href="https://github.com/Evycostzocn/myroutine">
+View Repository →
+</a>
+
+</td>
+
+<td align="center" width="33%">
+
+<h3>🐍 Algorithms — Python</h3>
+
+<p>
+Collection of exercises and solutions developed
+during the Introduction to Algorithms course.
+</p>
+
+<p>
+<strong>Python · Algorithms · Problem Solving</strong>
+</p>
+
+<a href="https://github.com/Evycostzocn/Introdu-o-Algoritmos---PYTHON">
+View Repository →
+</a>
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<p>
+✨ <em>Always learning, always building.</em>
+</p>
+
+</div>
+
 
 
 <div align="center">
