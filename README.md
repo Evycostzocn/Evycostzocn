@@ -98,7 +98,7 @@ through code
 
 <table width="100%">
 <tr>
-<td width="60" align="center" valign="top">🎮</td>
+<td width="60" align="center" valign="center">🎮</td>
 <td valign="top">
 <strong>InfinityHUB</strong><br/>
 Game recommendation and catalog project focused on organizing games by genre and category.<br/><br/>
@@ -107,7 +107,7 @@ Game recommendation and catalog project focused on organizing games by genre and
 <img src="https://img.shields.io/badge/JSON_Server-000000?style=flat-square&logo=json&logoColor=white"/><br/><br/>
 <a href="https://github.com/Evycostzocn/InfinityHUB">View Repository →</a>
 </td>
-<td align="right" valign="top">
+<td align="right" valign="center">
 <a href="https://github.com/Evycostzocn/InfinityHUB"><img src="https://img.shields.io/github/stars/Evycostzocn/InfinityHUB?style=social"/></a>
 </td>
 </tr>
@@ -115,7 +115,7 @@ Game recommendation and catalog project focused on organizing games by genre and
 <tr><td colspan="3"><hr/></td></tr>
 
 <tr>
-<td width="60" align="center" valign="top">📋</td>
+<td width="60" align="center" valign="center">📋</td>
 <td valign="top">
 <strong>myroutine</strong><br/>
 A simple routine management project designed to organize daily activities and tasks.<br/><br/>
@@ -124,7 +124,7 @@ A simple routine management project designed to organize daily activities and ta
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/><br/><br/>
 <a href="https://github.com/Evycostzocn/myroutine">View Repository →</a>
 </td>
-<td align="right" valign="top">
+<td align="right" valign="center">
 <a href="https://github.com/Evycostzocn/myroutine"><img src="https://img.shields.io/github/stars/Evycostzocn/myroutine?style=social"/></a>
 </td>
 </tr>
@@ -132,7 +132,7 @@ A simple routine management project designed to organize daily activities and ta
 <tr><td colspan="3"><hr/></td></tr>
 
 <tr>
-<td width="60" align="center" valign="top">🐍</td>
+<td width="60" align="center" valign="center">🐍</td>
 <td valign="top">
 <strong>Algorithms — Python</strong><br/>
 Collection of exercises and solutions developed during the Introduction to Algorithms course.<br/><br/>
@@ -149,7 +149,7 @@ Collection of exercises and solutions developed during the Introduction to Algor
 <tr><td colspan="3"><hr/></td></tr>
 
 <tr>
-<td width="60" align="center" valign="top">🤖</td>
+<td width="60" align="center" valign="center">🤖</td>
 <td valign="top">
 <strong>DesligaAI</strong><br/>
 Academic project developed as part of the Software Engineering program at PUC Minas.<br/><br/>
