@@ -185,16 +185,16 @@ Academic project developed as part of the Software Engineering program at PUC Mi
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 September 2025 - To: 10 September 2026
+From: 11 September 2025 - To: 11 September 2026
 
-Total Time: 28 hrs 6 mins
+Total Time: 32 hrs 29 mins
 
-CSS               10 hrs 18 mins        █████████░░░░░░░░░░░░░░░░   35.99 %
-HTML              7 hrs 17 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.50 %
-Java              7 hrs                 ██████░░░░░░░░░░░░░░░░░░░   24.50 %
-Markdown          1 hr 39 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.78 %
-XML               43 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.53 %
-Other             30 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.79 %
+CSS               10 hrs 52 mins        ████████▒░░░░░░░░░░░░░░░░   32.90 %
+Java              10 hrs 38 mins        ████████░░░░░░░░░░░░░░░░░   32.18 %
+HTML              7 hrs 29 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.64 %
+Markdown          1 hr 39 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.01 %
+XML               43 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.19 %
+Other             33 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.70 %
 ```
 
 <!--END_SECTION:waka-->
