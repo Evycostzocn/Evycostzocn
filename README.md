@@ -185,7 +185,7 @@ Academic project developed as part of the Software Engineering program at PUC Mi
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 October 2025 - To: 10 October 2026
+From: 11 October 2025 - To: 11 October 2026
 
 Total Time: 65 hrs 35 mins
 
